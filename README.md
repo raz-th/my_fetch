@@ -56,13 +56,13 @@ git clone https://github.com/raz-th/my_fetch.git
 2. Navigate into the project directory:
 
 ```bash
-cd myfetch.sh
+cd my_fetch
 ```
 
 3. Make the script executable:
 
 ```bash
-chmod +x myfetch.sh
+chmod +x my_fetch.sh
 ```
 
 ---
@@ -72,13 +72,13 @@ chmod +x myfetch.sh
 Run the script in your terminal:
 
 ```bash
-./myfetch.sh
+./my_fetch.sh
 ```
 
 Optional: Add it to your shell profile (`.bashrc` or `.zshrc`) to show the info on terminal startup:
 
 ```bash
-echo "~/path/to/myfetch.sh" >> ~/.bashrc
+echo "~/path/to/my_fetch.sh" >> ~/.bashrc
 ```
 
 ---
