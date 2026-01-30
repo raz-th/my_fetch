@@ -50,7 +50,7 @@ Alongside a sleek ASCII art logo.
 1. Clone the repository:
 
 ```bash
-https://github.com/raz-th/my_fetch.git
+git clone https://github.com/raz-th/my_fetch.git
 ```
 
 2. Navigate into the project directory:
